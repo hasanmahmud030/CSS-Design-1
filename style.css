@@ -1,0 +1,179 @@
+body {
+	margin: 0;
+}	
+
+.second-left{
+	height: 50px;
+	background-color: #A349A4;
+	width: 45%;
+	float: left;
+
+}
+
+.second-right{
+	height: 50px;
+	background-color: #3F48CC;
+	width: 30%;
+	float: right;
+	overflow: hidden;
+}
+
+.frist-top{
+	height: 50px;
+}
+
+.third-left{
+	height: 700px;
+	background-color: #FF7F27;
+	width: 5%;
+	float: left;
+}
+
+
+.ninth-top{
+	height: 200px;
+	background-color: #ED1C24;
+
+	
+}
+
+.ninth-middle{
+	height: 130px;
+	background-color: green;
+	width: 40%;
+	margin-left: 120px;
+	margin-bottom: auto;
+	margin-top: -130px;
+
+}
+
+.ninth-bottom{
+	height: 200px;
+	background-color: #FFF100;
+	width: 47%;
+	margin-left: 224px;
+
+}
+
+
+.eighth-left-2{
+	height: 149px;
+	background-color: red;
+	width: 130%;
+	margin-top: 0px;
+	margin-bottom: 300px;
+
+
+}
+
+
+.eighth-left{
+	height: 400px;
+	width: 55%;
+	float: left;
+	
+
+}
+
+.ten{
+	position: absolute;
+	height: 135px;
+	width: 40%;
+	background-color: #FF7F27;
+	border-radius: 50%;
+	margin-left: 207px;
+}
+
+
+.eighth-1{
+	height: 400px;
+	background-color: #00A2E8;
+	width: 100%;
+	overflow: hidden;
+	position: relative;
+	text-align: center;
+	
+}
+
+
+.eighth-right{
+	height: 400px;
+	overflow: hidden;
+
+}
+
+.sixth-left{
+	height: 400px;
+	width: 60%;
+	float: left;
+
+}
+
+
+.seventh-left{
+	height: 250px;
+	background-color: #ED1C24;
+	width: 56%; 
+	float: bottom;
+	float: left;
+
+
+
+}
+.seventh-middle{
+	height: 140px;
+	background-color: #3F48CC;
+	width: 40%;
+	float: left;
+	margin-left: 82px;
+}
+
+
+.seventh-right{
+	height: 550px;
+	background-color: #00A2E8;
+	width: 44%;
+	overflow: hidden;
+
+
+}
+
+
+
+.sixth-right{
+	height: 550px;
+	width: 40%;
+	overflow: hidden;
+
+}
+
+
+.forth-top{
+	height: 550px;
+	
+}
+
+.fiveth-left{
+	height: 150px;
+	background-color: #22B14C;
+	width: 45%;
+	float: left;
+	margin-left: 300px;
+}
+
+.fiveth-right{
+	height: 150px;
+	background-color: #A349A4;
+	width: 15%;
+	overflow: hidden;
+	
+}
+
+
+.third-right{
+	overflow: hidden;
+
+}
+.frist-bottom{
+	height: 700px;
+}
